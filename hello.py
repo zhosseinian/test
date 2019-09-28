@@ -1,2 +1,3 @@
-git pull
-hello, world
+from helpers import greet
+
+greet("World")
